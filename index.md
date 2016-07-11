@@ -21,7 +21,7 @@ Author: Julia Phelps<br>
 Date:  July 7th, 2016<br>
 *Course Project for the class* ***Developing Data Products,*** *offered through [Coursera.org](https://www.coursera.org/).* </font>
 
-[shinyApp]("https://github.com/juliaphelps/CO2Emissions_presentation/blob/gh-pages/app.png")
+![](app.png)
 
 ## About the Data:
 
